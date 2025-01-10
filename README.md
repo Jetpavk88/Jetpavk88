@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jetpavk88
-- 👀 I’m interested in ... Front end devlopement 
+- 👀 I’m interested in ... Front end web devlopement 
 - 🌱 I’m currently learning ... html css java script
 - 💞️ I’m looking to collaborate on ... web dev projects 
 - 📫 How to reach me ... my email is the best way to reach me 
